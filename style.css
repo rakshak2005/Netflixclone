@@ -155,7 +155,7 @@ h1{
 
 .hero3{
     background-color: black;
-    height: 1000px;
+    height: 2000px;
     
 }
 .trend{
@@ -359,3 +359,56 @@ h2{
     background-image: url(./emoji.png);
     background-size: 100% 100%;
 }
+.trendf{
+    color:white;
+    font-size:3vh;
+    font-weight: 600;
+    margin-left: 19.5vh;
+    font-family: sans-serif;
+}
+.freq{
+    margin-top: 9vh ;
+}
+
+.fbox{
+    height: 76vh;
+    margin-right: 19vh;
+    margin-top: 3vh;
+    background-color: black;
+    margin-left: 19.8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.fbox1{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2D2D2D;
+    height: 11.5vh;
+    align-items: center;
+}
+
+.wt1{
+    margin-left: 3vh;
+    color: white;
+    font-size: 3.5vh;
+}
+
+.plu{
+    color: white;
+    font-size: 7vh;
+    margin-right: 4vh;
+}
+
+.fbox1:hover{
+    background-color: #414141;
+}
+
+.read{
+    color: white;
+    font-size: 2.5vh;
+    text-align: center;
+    margin-top: 10vh;
+}
+
