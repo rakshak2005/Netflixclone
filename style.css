@@ -169,7 +169,7 @@ h1{
 .trendpics{
     display: flex;
     justify-content: space-between;
-    width: 161.25vh;
+    width: 100%;
 }
 
 .trend1{
@@ -264,8 +264,7 @@ h1{
     background-color: #ffffff17;
     border-radius: 10px;
     border: transparent 0mm solid;
-    position: relative;
-    left: 1.97vh;
+    margin-left: 2vh;
 }
 
 .but:hover{
@@ -273,9 +272,11 @@ h1{
 }
 .trendbox{
     display: flex;
+    justify-content: space-between;
     padding-left: 22.33vh;
     margin-top: 3vh;
     align-items: center;
+    margin-right: 19.5vh;
 
 }
 .num{
@@ -291,18 +292,20 @@ h1{
 }
 .purple{
     display: flex;
+    flex-wrap: wrap;
     margin-left: 19.5vh;
     margin-right: 19vh;
     justify-content: space-between;
     margin-top: 5vh;
 }
 .pur1{
-    width: 40vh;
-    height: 35vh;
+    width: 41vh;
+    height: 39vh;
     background-color: #99131a;
     border-radius: 15px;
     background-image: url(./WhatsApp\ Image\ 2025-02-16\ at\ 1.24.06\ PM.jpeg);
     background-size: 100% 100%;
+    font-size: 2.2vh;
 }
 h2{
     color: white;
@@ -321,7 +324,7 @@ h2{
     width :8vh;
     height: 8vh;
     background-color: black;
-    margin-top: 8vh;
+    margin-top: 11.8vh;
     margin-left: 30vh;
     background-image: url(./tv.png);
     background-size: 100% 100%;
@@ -331,7 +334,7 @@ h2{
     width :8vh;
     height: 8vh;
     background-color: black;
-    margin-top: 7vh;
+    margin-top: 10.8vh;
     margin-left: 30vh;
     background-image: url(./arrow.png);
     background-size: 100% 100%;
@@ -341,7 +344,7 @@ h2{
     width :8vh;
     height: 8vh;
     background-color: black;
-    margin-top: 10vh;
+    margin-top: 12vh;
     margin-left: 30vh;
     background-image: url(./pip.png);
     background-size: 100% 100%;
@@ -351,7 +354,7 @@ h2{
     width :8vh;
     height: 8vh;
     background-color: black;
-    margin-top: 6vh;
+    margin-top: 10vh;
     margin-left: 30vh;
     background-image: url(./emoji.png);
     background-size: 100% 100%;
