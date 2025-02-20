@@ -509,6 +509,7 @@ h2{
         display: flex;
     }
     .box1{
+        margin-top: 7px;
         font-size: 15px;
         font-weight: 600;
         display: flex;
@@ -536,6 +537,7 @@ h2{
         width: 76px;
         height: 32px;
         background-color: #E50914;
+        margin-top: 5px;
     }
     
     .sign:hover{
