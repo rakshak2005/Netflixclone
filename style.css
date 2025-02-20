@@ -474,7 +474,7 @@ h2{
     .bg{
         background-image: url(./Screenshot\ 2025-02-20\ 174704.png);
         background-size: 100% 100%;
-        height: 80vh;
+        height: 90vh;
         width: 100%;
         display: flex;
         flex-direction: column;
@@ -509,7 +509,7 @@ h2{
         display: flex;
     }
     .box1{
-        margin-top: 7px;
+        margin-top: 11px;
         font-size: 15px;
         font-weight: 600;
         display: flex;
@@ -537,7 +537,7 @@ h2{
         width: 76px;
         height: 32px;
         background-color: #E50914;
-        margin-top: 5px;
+        margin-top: 11px;
     }
     
     .sign:hover{
@@ -562,7 +562,7 @@ h2{
         display: flex;
         flex-direction: column;
          position: relative;
-         bottom: 26vh;
+         bottom: 30vh;
          justify-items: center;
          text-align: center;
          align-items: center;
@@ -695,6 +695,7 @@ h2{
         transition: 0.2s;
     }
     .trend3{
+        display: none;
         border-radius: 7px;
         width: 23.65vh;
         height: 32.85vh;
@@ -726,7 +727,6 @@ h2{
         transition: 0.2s;
     }
     .trend6{
-        display: none;
         border-top-left-radius: 7px;
         border-bottom-left-radius: 7px;
         width: 15.7vh;
