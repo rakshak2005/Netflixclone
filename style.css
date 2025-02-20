@@ -479,6 +479,7 @@ h2{
         display: flex;
         flex-direction: column;
         justify-content: space-between;
+        justify-items: cente;
     }
     
     .navbar{
@@ -544,22 +545,26 @@ h2{
         background-color: #99131a;
     }
     .h1{
-        margin-left: 3vh;
         width: 44.8vh;
-        height: 11.0vh;
+        height: 10.0vh;
         color: white;
+
     }
     h1{
-        font-size: 3.4vh;
+        font-size: 25px;
         text-align: center;
         font-family: sans-serif;
         font-weight: 800;
     }
     .hero{
+        display: flex;
+        flex-direction: column;
          position: relative;
          bottom: 26vh;
          justify-items: center;
-         text-align: center
+         text-align: center;
+         align-items: center;
+         
     }
     .hero1{
         color:white;
@@ -571,7 +576,7 @@ h2{
     .hero2{
         font-size: 1.8vh;
         color: white;
-        margin-top: 28px;
+        margin-top: 20px;
         font-weight: 600;
         margin-left: 3vh;
         margin-right: 3vh;
