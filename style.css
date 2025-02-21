@@ -823,7 +823,7 @@ h2{
         height: 7vh;
         background-color: black;
         position: relative;
-        bottom: 30%;
+        bottom: 31%;
         margin-left: 77%;
         margin-right: 2vh;
         background-image: url(./arrow.png);
@@ -835,7 +835,7 @@ h2{
         height: 7vh;
         background-color: black;
         position: relative;
-        bottom: 25%;
+        bottom: 29%;
         margin-left: 78%;
         margin-right: 2vh;
         background-image: url(./pip.png);
@@ -847,7 +847,7 @@ h2{
         height: 7vh;
         background-color: black;
         position: relative;
-        bottom: 25%;
+        bottom: 29%;
         margin-left: 76%;
         margin-right: 2vh;
         background-image: url(./emoji.png);
