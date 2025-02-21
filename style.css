@@ -855,9 +855,9 @@ h2{
     }
     .trendf{
         color:white;
-        font-size:3vh;
+        font-size:2vh;
         font-weight: 600;
-        margin-left: 19.5vh;
+        margin-left: 3.3vh;
         font-family: sans-serif;
     }
     .freq{
@@ -865,11 +865,11 @@ h2{
     }
     
     .fbox{
-        height: 76vh;
-        margin-right: 0vh;
-        margin-top: 3vh;
+        height: 63vh;
+        margin-right: 3.3vh;
+        margin-top: 1vh;
         background-color: black;
-        margin-left: 0vh;
+        margin-left: 3.3vh;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -879,20 +879,20 @@ h2{
         display: flex;
         justify-content: space-between;
         background-color: #2D2D2D;
-        height: 11.5vh;
+        height: 9.5vh;
         align-items: center;
     }
     
     .wt1{
         margin-left: 3vh;
         color: white;
-        font-size: 3.5vh;
+        font-size: 2.2vh;
     }
     
     .plu{
         color: white;
-        font-size: 7vh;
-        margin-right: 4vh;
+        font-size: 3vh;
+        margin-right: 2vh;
     }
     
     .fbox1:hover{
@@ -901,7 +901,7 @@ h2{
     
     .read{
         color: white;
-        font-size: 2.5vh;
+        font-size: 1.5vh;
         text-align: center;
         margin-top: 10vh;
     }
@@ -909,8 +909,8 @@ h2{
     .search1{
         color: white;
         font-size: 17px;
-        width: 80vh;
-        height: 53px;
+        width: 40vh;
+        height: 48px;
         background-color: rgba(56, 53, 53, 0.363);
         border: white 1px solid;
         border-radius: 5px;
@@ -918,17 +918,18 @@ h2{
     }
     .read1{
         color: #A0A0A0;
-        font-size: 2.5vh;
+        font-size: 2vh;
         margin-top: 10vh;
-        margin-left: 19.8vh;
+        margin-left: 3.3vh;
     }
     
     .footer{
-        height: 18.1vh;
-        margin-left: 0vh;
+        height: 50.1vh;
+        margin-left: 3.3vh;
         margin-right: 31vh;
         margin-top: 6vh;
         display: flex;
+        flex-direction: column;
         justify-content: space-between;
     }
     
@@ -936,10 +937,14 @@ h2{
         color: #A0A0A0;
         width: 30vh;
         display: flex;
+        margin-top: 1vh;
         flex-direction: column;
         justify-content: space-between;
         font-size: 1.9vh;
         font-weight: 600;
+    }
+    .ft1>p{
+        margin-top: 1vh;
     }
     .boxl{
         font-size: 15px;
@@ -952,7 +957,7 @@ h2{
         width: 124px;
         height: 32px;
         margin-top: 10vh;
-        margin-left: 0vh;
+        margin-left: 3.3vh;
         margin-bottom: 10vh;
     
     
