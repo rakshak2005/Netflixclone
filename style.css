@@ -775,7 +775,7 @@ h2{
     }
     .purple{
         display: flex;
-        flex-wrap: wrap;
+        flex-direction: column;
         margin-left: 3.3vh;
         margin-right: 0vh;
         justify-content: space-between;
