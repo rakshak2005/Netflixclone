@@ -777,12 +777,12 @@ h2{
         display: flex;
         flex-wrap: wrap;
         margin-left: 3.3vh;
-        margin-right: 19vh;
+        margin-right: 0vh;
         justify-content: space-between;
     }
     .pur1{
         margin-top: 1vh;
-        width: 41vh;
+        width: ;
         height: 26vh;
         background-color: #99131a;
         border-radius: 15px;
