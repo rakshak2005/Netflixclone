@@ -63,6 +63,7 @@
     margin-left: 10px;
     border-radius: 5px;
     color: white;
+    border: transparent 0mm solid;
     align-content: center;
     text-align: center;
     width: 76px;
@@ -135,6 +136,7 @@ h1{
     width: 213px;
     background-color: #E50914;
     border-radius: 5px;
+    border: transparent 0mm solid;
     display: flex;
     margin-left: 20px;
     color: white;
