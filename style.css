@@ -251,7 +251,7 @@ h1{
     height: 32.8vh;
     background-color: white;
     background-image:url(./venom.webp) ;
-    background-size: 1 100%;
+    background-size: 30vh 100%;
     transition: 0.2s;
 
 }
@@ -754,7 +754,7 @@ h2{
         background-color: rgb(58, 57, 57);
     }
     .trendbox{
-        width: 40vh;
+        width: 85%;
         display: flex;
         justify-content: space-between;
         padding-left: 3.3vh;
