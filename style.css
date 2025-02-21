@@ -639,9 +639,9 @@ h2{
     }
     .trend{
         color:white;
-        font-size:22px;
+        font-size: 18px;
         font-weight: 600;
-        margin-left: 0vh;
+        margin-left: 3.3vh;
         font-family: sans-serif;
     }
     
@@ -653,8 +653,8 @@ h2{
     
     .trend1{
         border-radius: 7px;
-        width: 23.65vh;
-        height: 32.85vh;
+        width: 13.4vh;
+        height: 18.4vh;
         background-color: white;
         background-image:url(./pushpa.webp) ;
         background-size: 100% 100%;
@@ -687,29 +687,30 @@ h2{
     }
     .trend2{
         border-radius: 7px;
-        width: 23.65vh;
-        height: 32.85vh;
+        width: 13.4vh;
+        height: 18.4vh;
         background-color: white;
         background-image:url(./squid.webp) ;
         background-size: 100% 100%;
         transition: 0.2s;
     }
     .trend3{
-        display: none;
-        border-radius: 7px;
-        width: 23.65vh;
-        height: 32.85vh;
+        border-top-left-radius: 7px;
+        border-bottom-left-radius: 7px;
+        width: 5.4vh;
+        height: 18.4vh;
         background-color: white;
-        background-image:url(./luckybasker.webp) ;
-        background-size: 100% 100%;
+        background-image:url(./venom.webp) ;
+        background-size: 10vh 100%;
+        background-repeat: no-repeat;
         transition: 0.2s;
     }
     
     .trend4{
         display: none;
         border-radius: 7px;
-        width: 23.65vh;
-        height: 32.85vh;
+        width: 15.4vh;
+        height: 21.4vh;
         background-color: white;
         background-image:url(./mismatched.webp) ;
         background-size: 100% 100%;
@@ -719,18 +720,19 @@ h2{
     .trend5{
         display: none;
         border-radius: 7px;
-        width: 23.65vh;
-        height: 32.85vh;
+        width: 15.4vh;
+        height: 21.4vh;
         background-color: white;
         background-image:url(./devara.webp) ;
         background-size: 100% 100%;
         transition: 0.2s;
     }
     .trend6{
+        display: none;
         border-top-left-radius: 7px;
         border-bottom-left-radius: 7px;
-        width: 15.7vh;
-        height: 32.8vh;
+        width: 15.4vh;
+        height: 21.4vh;
         background-color: white;
         background-image:url(./venom.webp) ;
         background-size: 1 100%;
@@ -752,20 +754,21 @@ h2{
         background-color: rgb(58, 57, 57);
     }
     .trendbox{
+        width: 40vh;
         display: flex;
         justify-content: space-between;
-        padding-left: 0vh;
+        padding-left: 3.3vh;
         margin-top: 3vh;
         align-items: center;
-        margin-right: 19.5vh;
+        margin-right: 0vh;
     }
     .num{
         position: relative;
-        font-size: 14.4vh;
+        font-size: 7.4vh;
         font-weight: 700;
-        top: 17.08vh;
-        right: 3.2vh;
-        -webkit-text-stroke: white 2px;
+        top: 9.08vh;
+        right: 1vh;
+        -webkit-text-stroke: white 1px;
     }
     .more{
         margin-top: 10vh;
