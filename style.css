@@ -782,7 +782,7 @@ h2{
     }
     .pur1{
         margin-top: 1vh;
-        width:90%;
+        width:92%;
         height: 26vh;
         background-color: #99131a;
         border-radius: 15px;
@@ -811,8 +811,9 @@ h2{
         background-color: black;
         position: relative;
         bottom: 10vh;
-        margin-left: 31vh;
-        margin-right: 2vh;
+        left: 77%;
+        margin-left: 0%;
+        margin-right: 0vh;
         background-image: url(./tv.png);
         background-size: 100% 100%;
     }
@@ -822,8 +823,8 @@ h2{
         height: 7vh;
         background-color: black;
         position: relative;
-        bottom: 8vh;
-        margin-left: 31vh;
+        bottom: 30%;
+        margin-left: 77%;
         margin-right: 2vh;
         background-image: url(./arrow.png);
         background-size: 100% 100%;
@@ -834,8 +835,8 @@ h2{
         height: 7vh;
         background-color: black;
         position: relative;
-        bottom: 8vh;
-        margin-left: 31vh;
+        bottom: 25%;
+        margin-left: 78%;
         margin-right: 2vh;
         background-image: url(./pip.png);
         background-size: 100% 100%;
@@ -846,8 +847,8 @@ h2{
         height: 7vh;
         background-color: black;
         position: relative;
-        bottom: 8vh;
-        margin-left: 31vh;
+        bottom: 25%;
+        margin-left: 76%;
         margin-right: 2vh;
         background-image: url(./emoji.png);
         background-size: 100% 100%;
